@@ -1,0 +1,3 @@
+resource_group_location = "eastus"
+resource_group_name_prefix = "ehds-rg"
+username                   ="ehdsazureadmin"
